@@ -13,5 +13,5 @@ end
 minimum_temperatures << lowest_temperature_element
 row_index += 1
 end
-lowest_temperature_element
+minimum_temperatures
 end
